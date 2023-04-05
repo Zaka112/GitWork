@@ -14,7 +14,7 @@
 - Any work experience: More than a year of experience long ago
 - Your goal for this course: Learning and Strengthening my development (and other) skills, and ultimately getting back to relevant job marketg
 
-### Orderd list
+### Ordered list
 
 1. Item 1
 2. Item 2
